@@ -6,13 +6,13 @@
 # comienza cada nombre con mayúscuala y el resto con minúsculas incluye acentos y otros
 # caracteres del Español.
 # Escribe el código aquí
-nombre = "Revilla Silva Jesús Alberto"
+nombre = "Castillo López Ana Karen"
 
 
 
 # 1.1 Declara una variable matricula y asigna tu número de matrícula como entero
 # Escribe el código aquí
-matricula = 1195
+matricula = 163644
 
 
 
