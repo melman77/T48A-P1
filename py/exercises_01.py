@@ -9,11 +9,9 @@
 nombre = "Castillo López Ana Karen"
 
 
-
 # 1.1 Declara una variable matricula y asigna tu número de matrícula como entero
 # Escribe el código aquí
 matricula = 173644
-
 
 
 # 2. Crear una función que sume dos números
