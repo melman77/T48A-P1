@@ -12,7 +12,7 @@ nombre = "Castillo López Ana Karen"
 
 # 1.1 Declara una variable matricula y asigna tu número de matrícula como entero
 # Escribe el código aquí
-matricula = 163644
+matricula = 173644
 
 
 
