@@ -16,7 +16,7 @@ class TestCodigoEstudiantes(unittest.TestCase):
         assert isinstance(nombre, str)
         self.assertIn(nombre, ['Castillo López Ana Karen', 'Cerrillo Domínguez César Alejandro',
                                'Del Angel Rodríguez José Jesús', 'Durán Álvarez Edgar Aarón',
-                               'Elías Delgadillo Gerardo Gael', 'García Hernández Hugo Armando',
+                               'Elias Delgadillo Gerardo Gael', 'García Hernández Hugo Armando',
                                'Guerrero González Diego Adolfo', 'Guerrero Torres José Emanuel',
                                'Gutiérrez Hernández Rodolfo', 'López Cerda Aneth Alejandra',
                                'López Cerda Jennifer Paola', 'Loredo Martínez Miguel Angel',
