@@ -8,7 +8,6 @@
  nombre = "Guerrero Torres José Emanuel"
 
 
-
 # 1.1 Declara una variable matricula y asigna tu número de matrícula como entero
 # Escribe el código aquí
 
