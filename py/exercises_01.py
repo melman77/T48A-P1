@@ -26,11 +26,11 @@ def sumar(a, b):
 # reemplaza la palabra reservada pass con tu código
 def bucle_for():
     for i in range(1,11):
-    print (i)
+        print(i)
 
 
 # 5. Usar un bucle para imprimir cada número
 def print_numbers():
     numbers = [1, 2, 3, 4, 5]
     for i in (numbers):
-        print (numbers) 
+        print(numbers) 
